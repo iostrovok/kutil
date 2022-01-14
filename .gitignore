@@ -1,0 +1,21 @@
+/.idea
+/.env
+.env
+/.vscode
+.DS_Store
+local
+
+# Testing artifacts
+/coverage.out
+/coverage.html
+/coverage-*
+.golangci.yml
+
+# Built artifact
+/version.txt
+/vendor
+/bin
+
+
+# Work files
+_download
